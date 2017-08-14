@@ -19,7 +19,7 @@ gulp.task("markdown", function() {
     .pipe(markdown())
     .pipe(
       gap.prependText(
-        '<!DOCTYPE html><html><head><link rel="stylesheet" type="text/css" href="airship-styles.css"><link rel="stylesheet" type="text/css" href="styles.css"><link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet"><title>Andrea Takamiya</title><meta name="description" content="Resume for Andrea Takamiya, Junior Full Stack Javascript Developer, Product Manager, Project Manager, and Digital Marketer." /><meta name="robots" content="index,follow" /><meta name="keywords" content="Andrea, Takamiya, Andrea Takamiya, resume, Javascript developer, digital marketing, advertising, project manager, product owner" /></head>'
+        '<!DOCTYPE html><html><head><link rel="stylesheet" type="text/css" href="airship-styles.css"><link rel="stylesheet" type="text/css" href="styles.css"><link href="https://fonts.googleapis.com/css?family=Catamaran" rel="stylesheet"><link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,400i,700" rel="stylesheet"><title>Andrea Takamiya</title><meta name="description" content="Resume for Andrea Takamiya, Junior Full Stack Javascript Developer, Product Manager, Project Manager, and Digital Marketer." /><meta name="robots" content="index,follow" /><meta name="keywords" content="Andrea, Takamiya, Andrea Takamiya, resume, Javascript developer, digital marketing, advertising, project manager, product owner" /></head>'
       )
     )
     .pipe(gap.appendText("</html>"))

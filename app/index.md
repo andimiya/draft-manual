@@ -12,9 +12,1007 @@ Welcome to the 2017 Better Odds of Football Fantasy Draft Manual! Let’s go ove
 
 Best of luck to you! Feel free to direct any questions, comments, etc. to sal@betterodds.io. Here are the Tiers for each position, from offense down thru IDP. The Tiers are re-listed for each respective position chronologically in the manual. Are you ready??
 
-# TIERS
+## TIERS
 
 ## QB
+
+<table>
+  <tr>
+    <td>Tier One</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Aaron Rodgers - GB
+Tom Brady - NE                                  
+Drew Brees - NO</td>
+    <td>Tier 1 is comprised of the QB’s that can make a big difference weekly, and should be taken early.</td>
+  </tr>
+  <tr>
+    <td>Tier Two</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Russell Wilson - Sea.
+Andrew Luck - Ind.                             
+Matt Ryan - Atl.                                  
+Kirk Cousins - Was.                            
+Marcus Mariota - Ten.
+Jameis Winston - TB</td>
+    <td>Tier 2 is full of QB1’s with high potential. Start them comfortably, and if you’re in a 2 QB league, getting two of these guys could make the difference. </td>
+  </tr>
+  <tr>
+    <td>Tier 3</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cam Newton - Car.
+Derek Carr - Oak.
+Ben Roethlisberger - Pit.                  
+Dak Prescott - Dal.                           
+Matthew Stafford - Det.                    
+Philip Rivers - LAC                           
+Tyrod Taylor - Buf.                            
+Andy Dalton - Cin.</td>
+    <td>Tier 3 is a mix of QB’s that carry some risk, be it injury, consistency, or something else. They have upside - notably Carr, Prescott, Taylor, and Newton - but also shouldn’t be relied on as stars. Draft them after the QB rush dies down, but make sure you have backups. </td>
+  </tr>
+  <tr>
+    <td>Tier 4</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Eli Manning - NYG
+Carson Palmer - Ari.                  
+Carson Wentz - Phi.
+Blake Bortles - Jac.</td>
+    <td>Tier 4 is the risk/reward tier. All these QB’s have upside - significant upside - but carry risk, also. Take them at will.</td>
+  </tr>
+  <tr>
+    <td>Tier 5</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Joe Flacco - Bal.
+Sam Bradford - Min                 
+Alex Smith - KC                       
+Jay Cutler - Mia.                     
+Brian Hoyer - SF
+Trevor Siemian - Den.</td>
+    <td>Tier 5 are your fantasy bench quarterbacks. Not going to win you a game alone, but their low double digit scores will keep you close enough. They’re reliable backups, if nothing else.</td>
+  </tr>
+  <tr>
+    <td>The Remainders</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Mike Glennon - Chi.
+DeShaun Watson - Hou.         
+Jared Goff - LAR                     
+Matt Moore - Mia.                    
+Tom Savage - Hou.                  
+Jimmy Garoppolo - NE            
+Brock Osweiler - Cle.               
+Josh McCown - NYJ
+Paxton Lynch - Den.
+DeShone Kizer - Cle.
+Cody Kessler - Cle.
+Teddy Bridgewater - Min.
+Mitch Trubisky - Chi.
+Christian Hackenberg - NYJ</td>
+    <td>The remaining QBs are all risky in their own way. Will Watson or Savage lead the Texans offense? Who starts for the Browns? Will Hackenberg get some reps this year? Pay attention to who gets given starting gigs throughout the preseason. That will give you a better idea of who to nab from the bottom tier of QB’s. </td>
+  </tr>
+</table>
+
+
+## RB
+
+<table>
+  <tr>
+    <td>Tier One</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>David Johnson - Ari.                                  
+Le’Veon Bell - Pit.                                  
+Ezekiel Elliott - Dal.   </td>
+    <td>RB Tier 1 needs no introduction. Take them if they are available. Without a doubt. </td>
+  </tr>
+  <tr>
+    <td>Tier Two</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>LeSean McCoy - Buf.
+Melvin Gordon - LAC                                
+Devonta Freeman - Atl.                             
+Jay Ajayi - Mia.                                         
+Jordan Howard - Chi.                               
+DeMarco Murray - Ten. </td>
+    <td>RB Tier 2 is where it gets tricky, as these backs could fall a bit do to the plethora of WRs this year. You could get some of them towards the end of the second round, which is a great value there. </td>
+  </tr>
+  <tr>
+    <td>Tier Three</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Todd Gurley - LAR
+Leonard Fournette - Jac.                          
+Lamar Miller - Hou.                                   
+Isaiah Crowell - Cle.                                  
+Carlos Hyde - SF
+Marshawn Lynch - Oak.                           
+Ty Montgomery - GB               
+Joe Mixon - Cin.
+Christian McCaffrey - Car. </td>
+    <td>RB Tier 3 is a boom/bust type of tier, with a bunch of players consisting of rookie to bounce back candidates to one coming out of retirement. Take them as RB2’s, but don’t rely on them to carry you on a week to week basis. If you can, grab a few of them. You can never have too many starting RB’s.</td>
+  </tr>
+  <tr>
+    <td>Tier Four</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CJ Anderson - Den.
+Mark Ingram - NO                                    
+Spencer Ware - KC                                  
+Mike Gillislee - NE                                    
+Dalvin Cook - Min.                                   
+Eddie Lacy - Sea.   </td>
+    <td>Tier 4 has backs with potential, but risk. From Lacy staying healthy/holding his job to competition for Ingram and Gillislee (and Cook), take them as risky RB2’s, but make sure you have backups.</td>
+  </tr>
+  <tr>
+    <td>Tier Five</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Bilal Powell - NYJ
+Ameer Abdullah - Det.                             
+Frank Gore - Ind.                                     
+Tevin Coleman - Atl.                                
+Paul Perkins - NYG                              
+LeGarrette Blount - Phi.                          
+Danny Woodhead - Bal.     </td>
+    <td>Tier 5 has sleeper backs galore. From Gore’s reliability to the PPR prowess of Woodhead, all the backs here are worth taking in fantasy drafts - and perhaps before some Tier 4 backs. If your league is PPR, you might want some of these guys. </td>
+  </tr>
+  <tr>
+    <td>Tier Six</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Adrian Peterson - NO
+Doug Martin - TB                                    
+Terrance West - Bal.                               
+Jonathan Stewart - Car.                         
+Derrick Henry - Ten.                               
+Robert Kelley - Was.                              
+Samaje Perine - Was.</td>
+    <td>Tier 6 is largely aging backups and committee members, and are thus ranked significantly on their names (not numbers). Be wary of the backs here, and pay attention to any preseason news before taking these backs too early. </td>
+  </tr>
+  <tr>
+    <td>Tier Seven</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Theo Riddick - Det.
+Matt Forte - NYJ
+Kareem Hunt - KC                                  
+CJ Prosise - Sea.                                    
+Duke Johnson - Cle.                               
+Latavius Murray - Min                             
+James White - NE                                                                                                   
+Jeremy Hill - Cin.
+Thomas Rawls - Sea.
+Jacquizz Rodgers - TB
+Jamaal Williams - GB    </td>
+    <td>Tier 7 is full of RB’s that are relative unknowns regarding what their workload will look like in 2017.
+Some of them are solid handcuffs or PPR snags, but they should mostly be relegated as bench RB’s.</td>
+  </tr>
+  <tr>
+    <td>Tier Eight</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Giovani Bernard - Cin.
+Jamaal Charles - Den.
+Darren Sproles - Phi.                             
+Joe Williams - SF
+DeAndre Washington - Oak.                 
+Rex Burkhead - NE
+Alvin Kamara - NO
+Chris Thompson - Was.                       
+Dion Lewis - NE
+Marlon Mack - Ind.
+Darren McFadden - Dal.</td>
+    <td>A combo of aging backups and young runners who are looking for opportunity, there’s handcuff potential and a little more in Tier 8. They are a good group of guys to stash on your bench until they get playing time, as there’s fantasy potential here on a spot start basis.</td>
+  </tr>
+  <tr>
+    <td>Tier Nine</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Charles Sims - TB
+Jalen Richard - Oak.                              
+Jonathan Williams - Buf.                        
+Jerick McKinnon - Min.
+Ryan Mathews - Phi.
+Shane Vereen - NYG
+D’Onta Foreman - Hou.         </td>
+    <td>Tier 9’s RB’s are risky picks, but have better upside than guys below them. Don’t reach on these guys, and they’re definitely most valuable as handcuffs. </td>
+  </tr>
+  <tr>
+    <td>Tier Ten</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Chris Ivory - Jac.                                                                                           
+Robert Turbin - Ind.                                
+TJ Yeldon - Jac.                                     
+Elijah Hood - Oak.                                  
+James Conner - Pit.       
+Tim Hightower - SF
+Zach Zenner - Det.
+Jeremy McNichols - TB
+Devontae Booker - Den.
+Wayne Gallman - NYG
+Wendell Smallwood - Phi.</td>
+    <td>Tier 10 for the running backs is a dart throw. Use your google prowess to scan for offseason info that could give a clue into any recent developments that pique your interest. </td>
+  </tr>
+</table>
+
+
+## WR
+
+<table>
+  <tr>
+    <td>Tier One</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Antonio Brown - Pit.  
+Odell Beckham, Jr. - NYG                      
+Julio Jones - Atl.  </td>
+    <td>Tier 1 should be gone by the middle of the 1st round. Take them while you can get them.</td>
+  </tr>
+  <tr>
+    <td>Tier Two</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Mike Evans - TB
+AJ Green - Cin.                                      
+Jordy Nelson - GB                                 
+Michael Thomas - NO
+TY Hilton - Ind.</td>
+    <td>Tier 2 are reliable WR’s that can win you fantasy games due to big weeks, but are just as reliable for consistent production. Take multiple, if you can. </td>
+  </tr>
+  <tr>
+    <td>Tier Three</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Dez Bryant - Dal.
+Amari Cooper - Oak.                             
+Doug Baldwin - Sea.
+DeAndre Hopkins - Hou.
+Demaryius Thomas - Den.
+Brandin Cooks - NE</td>
+    <td>The WR’s in Tier 3 are a little less reliable than those in Tier 2, but still carry good upside and the ability to change the outcome of your fantasy games. Don’t rely on them as your #1, but definitely roster them.</td>
+  </tr>
+  <tr>
+    <td>Tier Four</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Sammy Watkins - Buf.
+Allen Robinson - Jac.                           
+Alshon Jeffery - Phi.
+Terrelle Pryor - Was.
+Davante Adams - GB
+Keenan Allen - LAC</td>
+    <td>Tier 4 is the Risk/Reward category, as each carries their own baggage and talents. I would recommend taking 2 or 3 of them, as there’s a chance that some (Robinson, Allen) could fall deeper than expected.</td>
+  </tr>
+  <tr>
+    <td>Tier Five</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Michael Crabtree - Oak.
+Golden Tate - Det.                                
+Emmanuel Sanders - Den.
+Jarvis Landry - Mia.                             
+Tyreek Hill - KC                                    
+Martavis Bryant - Pit.                           
+Larry Fitzgerald - Ari.  
+Julian Edelman - NE
+Jamison Crowder - Was.</td>
+    <td>Tier 5 are the reliable WR’s (save boom or bust Hill and risky Bryant) that you definitely want on your team in most leagues - especially PPR. They should fall do to their lack of big name appeal, and try to nab as many of these guys as you can later on in drafts. </td>
+  </tr>
+  <tr>
+    <td>Tier Six</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Stefon Diggs - Min.
+Willie Snead - NO                                 
+Donte Moncrief - Ind.                           
+Kelvin Benjamin - Car.
+DeSean Jackson - TB
+Brandon Marshall - NYG                      
+Pierre Garcon - SF                                
+Eric Decker - Ten.
+Jeremy Maclin - Bal.
+Devante Parker - Mia.
+Tyrell Williams - LAC</td>
+    <td>Tier 6 has a bunch of receivers with something to prove on the field, be it disproving their injury prone label or showing their new team what they’ve got.
+They have a great chance of being forgotten about in drafts, and you could be able to snag some great PPR value down here in the form of starting WR’s on mediocre NFL teams (Garcon, Maclin, Diggs). </td>
+  </tr>
+  <tr>
+    <td>Tier Seven</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cameron Meredith - Chi.
+John Brown - Ari.
+Kenny Britt - Cle.                                   
+Randall Cobb - GB                                
+Mike Wallace - Bal.
+Corey Coleman - Cle.
+Adam Thielen - Min.
+Corey Davis - Ten.
+Rishard Matthews - Ten.
+Quincy Enunwa - NYJ
+Jordan Matthews - Phi.
+Marvin Jones - Det.</td>
+    <td>Tier Seven is a wildcard group of players, with some holding sky high potential (Brown, C. Davis), and some trying to remain fantasy relevant (Enunwa, Thielen, Wallace). When selecting these guys later on, look to get the most upside out of whoever you take. Consistently should be a target a bit earlier in Tiers 5 and 6.</td>
+  </tr>
+  <tr>
+    <td>Tier Eight</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Ted Ginn - NO
+Sterling Shepard - NYG                          
+Josh Doctson - Was.
+Breshad Perriman - Bal.
+Robert Woods - LAR
+Kevin White - Chi.
+Kenny Stills - Mia.
+Tyler Lockett - Sea. </td>
+    <td>Tier Eight contains many players coming back from injury that could be left behind in drafts, as well as forgotten receivers like Kenny Stills and Robert Woods. It’s best to chase upside here, so if your league gives big play bonuses or PPR, you might want to examine these guys a bit farther. </td>
+  </tr>
+  <tr>
+    <td>Tier Nine</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Zay Jones - Buf.
+JJ Nelson - Ari.
+Marqise Lee - Jac.
+Cole Beasley - Dal
+John Ross - Cin.
+Malcolm Mitchell - NE
+Will Fuller V - Hou.
+Tavon Austin - LAR
+Allen Hurns - Jac
+Taylor Gabriel - Atl.
+Mike Williams - LAC</td>
+    <td>Tier Nine contains guys that have way more promise than they are being given credit for. Many of them are slot or #3 receivers on their respective teams, so look to see which teams throw the most and which of these guys tends to get the most targets on a consistent basis. These guys could be nice bench receivers out of the draft that turn into flex plays down the road.</td>
+  </tr>
+  <tr>
+    <td>Tier Ten</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Devin Funchess - Car.
+Robby Anderson - NYJ                         
+Eli Rogers - Pit.
+Mohamed Sanu - Atl.
+Nelson Agholor - Phi.
+Michael Floyd - Min.
+Curtis Samuel- Car.
+Chris Hogan - NE
+Kendall Wright - Chi.</td>
+    <td>The remaining WR’s need to be examined further in order to properly analyze how each would benefit the way your league scores. Take note of PPR guys in this tier (i.e. Robby Anderson) who might not have target competition in their respective offenses. </td>
+  </tr>
+  <tr>
+    <td>Unranked WR’s with Fantasy Upside</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cooper Kupp - LAR
+Tyler Boyd - Cin.
+Kenny Golladay - Det.
+Torrey Smith - Phi.
+Braxton Miller - Hou.
+Brandon LaFell - Cin.
+Laquon Treadwell - Min.
+Josh Gordon - Cle.</td>
+    <td></td>
+  </tr>
+</table>
+
+
+## TE
+
+<table>
+  <tr>
+    <td>Tier Gronk</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Rob Gronkowski - NE</td>
+    <td>Gronk can win you leagues. Take him by Round 2. </td>
+  </tr>
+  <tr>
+    <td>Tier Two</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Travis Kelce - KC
+Greg Olsen - Car
+Jordan Reed - Was. </td>
+    <td>The only TE’s that can compete with Gronk, they are worth looks relatively early on draft day.</td>
+  </tr>
+  <tr>
+    <td>Tier Three</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Jimmy Graham - Sea.
+Tyler Eifert - Cin.
+Kyle Rudolph - Min.                         
+Delanie Walker - Ten. </td>
+    <td>These are definite TE1’s, but beware the inherent risk in each. If TE’s start going quick, nab one of these guys. </td>
+  </tr>
+  <tr>
+    <td>Tier Four</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Martellus Bennett - GB
+Zach Ertz - Phi.
+Eric Ebron - Det.                              
+Hunter Henry - LAC
+Jack Doyle - Ind.
+Coby Fleener - NO</td>
+    <td>Tier 4 has borderline TE2/TE1 players that should heavily fluctuate on a week-to-week basis. They are top level backups or great in 2TE leagues. Take one of these  guys as a TE2 with TE1 upside. </td>
+  </tr>
+  <tr>
+    <td>Tier Five</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Jason Witten - Dal.
+Cameron Brate - TB                        
+Julius Thomas - Mia.
+CJ Fiedorowicz - Hou.
+Austin Hooper - Atl.
+Antonio Gates - LAC  </td>
+    <td>This is a risky tier, as each has their own risk involved. They shouldn’t be relied on as fantasy starters, but could prove to be solid backups and weekly spot starters based on matchups.</td>
+  </tr>
+  <tr>
+    <td>Tier Six</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>OJ Howard - TB
+David Njoku - Cle.                            
+Jared Cook - Oak.
+Zach Miller - Chi.
+Evan Engram - NYG </td>
+    <td>Tier 6 is comprised of rookies and journeymen, but each carries their own upside. While rookie TE’s aren’t usually fantasy relevant, the talent here warrants late round flier relevance.</td>
+  </tr>
+  <tr>
+    <td>The Remainders</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Jesse James - Pit.
+Dwayne Allen - NE                            
+Charles Clay - Buf.
+Vernon Davis - Was.
+Tyler Higbee - LAR
+Vance McDonald - SF
+Benjamin Watson - Bal.
+Adam Shaheen - Chi.
+Austin Seferian-Jenkins - NYJ
+Jermaine Gresham - Ari.</td>
+    <td>The remaining tight ends are for deep leagues or dart throw sleeper picks. Some of these guys have potential and could end up as low end TE2’s due to their offensive situations (Watson, Allen, Higbee), but don’t invest anything significant in them on draft day.</td>
+  </tr>
+</table>
+
+
+## K
+
+<table>
+  <tr>
+    <td>Tier One</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Stephen Gostkowski - NE
+Justin Tucker - Bal.
+Dan Bailey - Dal.
+Matt Bryant - Atl.
+Mason Crosby - GB
+Adam Vinatieri - Ind.                                                                  </td>
+    <td>While nobody should be taking a kicker before the last round or two (nobody!), these guys are the ones you go for if they are there that late. Opportunity and accuracy make these guys weekly starters. </td>
+  </tr>
+  <tr>
+    <td>Tier Two</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cairo Santos - KC
+Matt Prater - Det
+Sebastian Janikowski - Oak.
+Wil Lutz - NO</td>
+    <td>These kickers can be boom or bust, but are still reliable and get opportunities enough to warrant weekly starts.</td>
+  </tr>
+  <tr>
+    <td>Tier Three</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Dustin Hopkins - Was.
+Steven Hauschka - Buf.                       
+Brandon McManus - Den.
+Graham Gano - Car.   </td>
+    <td>Tier 3 are kickers that have big week potential, but are not consistent in production on a weekly basis. </td>
+  </tr>
+  <tr>
+    <td>The Remainders</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Chris Boswell - Pit.
+Blair Walsh - Sea.
+Caleb Sturgis - Phi.
+Josh Lambo - LAC
+Nick Novak - Hou.
+Chandler Catanzaro - NYJ
+Phil Dawson - Ari.</td>
+    <td>The remaining kickers are merely listed for your own insight, and most are not fantasy relevant to start off the season. That said, I’m sure one or two of them will end the season in the top ten because, you know, kickers.</td>
+  </tr>
+</table>
+
+
+## D/ST
+
+<table>
+  <tr>
+    <td>Tier One</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Denver Broncos
+Seattle Seahawks
+Kansas City Chiefs
+Houston Texans
+Minnesota Vikings
+Arizona Cardinals
+New England Patriots</td>
+    <td>Defenses fluctuate year after year and should not be reached for on draft day. That said, these 7 units are very reliable to finish in the top group of teams by the end of the season. Don’t reach, but if defenses start to go fast, try and get one of them. </td>
+  </tr>
+  <tr>
+    <td>Tier Two</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Carolina Panthers
+New York Giants
+Jacksonville Jaguars
+Los Angeles Rams
+Baltimore Ravens
+Philadelphia Eagles</td>
+    <td>Tier 2 is full of upside, and these defenses make top level backups with the potential to rise to starting units by the end of the season. But again, DON’T REACH FOR DEFENSE!</td>
+  </tr>
+  <tr>
+    <td>Tier Three</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Pittsburgh Steelers
+Cincinnati Bengals
+Green Bay Packers
+Los Angeles Chargers
+Oakland Raiders</td>
+    <td>Tier 3 is a group of teams with defenses in transition who should likely be matchup based streaming options, if not D/ST2’s. </td>
+  </tr>
+  <tr>
+    <td>Tier Four</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tampa Bay Buccaneers
+Atlanta Falcons
+Miami Dolphins
+Buffalo Bills
+Tennessee Titans    
+Detroit Lions</td>
+    <td>Tier 4 is defenses that are going to be streamers this season. One or two of them will surely rise to D/ST2 status, but how lucky are you feeling?</td>
+  </tr>
+  <tr>
+    <td>The Remainders</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>New York Jets
+Washington Redskins                            
+Dallas Cowboys
+Indianapolis Colts
+Chicago Bears
+New Orleans Saints
+San Francisco 49ers
+Cleveland Browns</td>
+    <td>What are you doing down here? Are you actually considering the Browns defense? Go back to Tier 4. </td>
+  </tr>
+</table>
+
+
+## DL
+
+<table>
+  <tr>
+    <td>Tier One</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>JJ Watt - Hou.
+Khalil Mack - Oak.**</td>
+    <td>If Mack is eligible at DL in your league, he’s the only player that is in Watt’s level.</td>
+  </tr>
+  <tr>
+    <td>Tier Two</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Jason Pierre - Paul - NYG
+Joey Bosa - LAC
+Olivier Vernon - NYG</td>
+    <td>These guys are the top DL’s outside of Watt. If you can get one, it could really help your season.</td>
+  </tr>
+  <tr>
+    <td>Tier Three</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Lorenzo Alexander - Buf.
+Danielle Hunter - Min.
+Jadeveon Clowney - Hou.
+Vic Beasley, Jr. - Atl.  </td>
+    <td>3 of these 4 may not be DL eligible for you, but if so, they’re big plays. Take them as top level DL’s.</td>
+  </tr>
+  <tr>
+    <td>Tier Four</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Aaron Donald - LAR
+Calais Campbell - Jac.
+Carlos Dunlap - Cin.
+Cameron Jordan - NO
+Everson Griffen - Min.
+Muhammad Wilkerson - NYJ
+Leonard Williams - NYJ
+Ndamukong Suh - Mia.
+DeForest Buckner - SF</td>
+    <td>Tier 4 is chock full of DL2’s, but some of the players listed above them may not be DL eligible. If that’s the case, look at your league’s scoring rules to see if sacks or tackles are more valuable in your system.
+Pick some guys from Tier 4 based on that. </td>
+  </tr>
+  <tr>
+    <td>Tier Five</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Ezekiel Ansah - Det.
+Brandon Graham - Phi.
+Fletcher Cox - Phi.
+Myles Garrett - Cle.
+Kawann Short - Car.
+Sheldon Richardson - NYJ
+Michael Bennett - Sea.
+Cameron Wake - Mia.</td>
+    <td>Tier 5 has lots of fantasy upside, but you could be left disappointed. As said before, look to see if sacks or tackles (or tackles for loss, for that matter) are most valuable. Decide from there.</td>
+  </tr>
+  <tr>
+    <td>Tier Six</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Geno Atkins - Cin.
+Damon Harrison - NYG
+Cliff Avril - Sea.
+Linval Joseph - Min.
+Ryan Kerrigan - Was.</td>
+    <td>Tier 6 are reliable bench linemen for your fantasy squad. Kerrigan may not be DL eligible, but he’s well worth a look if he is.</td>
+  </tr>
+  <tr>
+    <td>The Remainders</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cameron Heyward - Pit.
+Trey Flowers - NE
+Frank Clark - Sea.
+Robert Ayers - TB
+Akiem Hicks - Chi.                              
+Jerry Hughes - Buf.
+William Hayes - Mia.
+Ahmad Brooks - SF
+Derek Wolfe - Den. </td>
+    <td>The remaining linemen can be interchanged with many others across the league.</td>
+  </tr>
+</table>
+
+
+## LB
+
+<table>
+  <tr>
+    <td>Tier One</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Kwon Alexander - TB
+Luke Kuechly - Car.
+Bobby Wagner - Sea.                                                                                                 </td>
+    <td>These three are the top LB’s, and your defense will become instantly better by having one on your team.</td>
+  </tr>
+  <tr>
+    <td>Tier Two</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Alec Ogletree - LAR
+Telvin Smith - Jac.
+Jamie Collins - Cle.
+CJ Mosley - Bal.
+Sean Lee- Dal.</td>
+    <td>Tier 2 contains guys that are surefire LB1’s, some with tremendous upside. They’re worth rostering as LB1’s, but make dominant LB2’s. </td>
+  </tr>
+  <tr>
+    <td>Tier Three</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Ryan Shazier - Pit.
+Bernardrick McKinney - Hou.
+Vontaze Burfict - Cin.
+Christian Kirksey - Cle.
+Deion Jones - Atl.
+Lavonte David - TB  </td>
+    <td>Tier 3 is high upside guys that could fall in fantasy drafts this year. Try to grab one or two of them if you can if linebackers start to go quickly. They could be LB1’s by season’s end.</td>
+  </tr>
+  <tr>
+    <td>Tier Four</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Eric Kendricks - Min.
+Mark Barron - LAR                                 
+Zach Brown - Was.
+Jerrell Freeman - Chi.
+Jatavis Brown - LAC
+Khalil Mack - Oak.
+Navarro Bowman - SF          </td>
+    <td>Tier 4 are solid LB2’s that have their own upside benefits. Mack is much more valuable as a DL, but is still very much an LB2. Some sleeper picks could be found down here. </td>
+  </tr>
+  <tr>
+    <td>Tier Five</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>KJ Wright - Sea.
+Kiko Alonso - Mia.
+Derrick Johnson - KC
+Paul Posluszny - Jac.
+Reuben Foster - SF
+Deone Bucannon - Ari.
+Jordan Hicks - Phi.
+Lawrence Timmons - Mia.
+Von Miller - Den.</td>
+    <td>Tier 5 are bench linebackers that you can dig for upside in. Miller brings the opportunity for a 30 point week (sandwiched in between two 3’s), but others here could be liable 8-10 point guys due to tackles alone. It really depends on how you want your bench. </td>
+  </tr>
+  <tr>
+    <td>Tier Six</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Robert Quinn - LAR
+Tahir Whitehead - Det.
+Jarrad Davis - Det.
+Myles Jack - Jac.
+Thomas Davis - Car.
+Lorenzo Alexander - Buf.
+Melvin Ingram - LAC
+Nigel Bradham - Phi.
+Reggie Ragland - Buf.
+Justin Houston - KC
+Darron Lee - NYJ
+Whitney Mercilus - Hou.</td>
+    <td>Some of these guys are fantasy relevant and offer upside (Jack, both Thomas and Jarrad Davis, Ingram), but could also fall deep into drafts. Wait until later to grab one as a potential sleeper pick.</td>
+  </tr>
+</table>
+
+
+## DB
+
+<table>
+  <tr>
+    <td>Tier One</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Landon Collins - NYG
+Keanu Neal - Atl. </td>
+    <td>While Collins is the surefire #1 DB, Neal is not far behind after a dominant rookie season.</td>
+  </tr>
+  <tr>
+    <td>Tier Two</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Harrison Smith - Min.
+Johnathan Cyprien - Ten.
+Tony Jefferson - Bal.
+Morgan Burnett - GB
+Reshad Jones - Mia.
+Barry Church - Jac.
+TJ Ward - Den.
+Ha-Ha Clinton-Dix - GB   </td>
+    <td>Tier 2 is full of DB1’s that have potential to give you a solid positional advantage at DB on a weekly basis. Grab two of them if you can, especially if you miss out on both Collins and Neal.</td>
+  </tr>
+  <tr>
+    <td>Tier Three</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Kurt Coleman - Car.
+Eric Weddle - Bal.
+Kenny Vaccaro - NO
+Karl Joseph - Oak.                                 
+Eric Berry - KC </td>
+    <td>Tier 3 are the reliable DB2’s, as it falls off quickly after that. Try to have two of the top 15 guys here.</td>
+  </tr>
+  <tr>
+    <td>Tier Four</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Kam Chancellor - Sea.
+Logan Ryan - Ten.
+Malcolm Jenkins - Phi.
+Chris Conte - TB
+Antoine Bethea - Ari.
+Tyrann Mathieu - Ari.
+Su’a Cravens - Was.</td>
+    <td>Tier 4 carries both upside and risk, so look at your league’s scoring to see what stats matter most in your league. Mathieu and Cravens carry some upside and could fall in drafts. </td>
+  </tr>
+  <tr>
+    <td>Tier Five</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tavon Wilson - Det.
+Bashaud Breeland - Was.
+Sean Davis - Pit.
+Jahleel Addae - LAC
+Eric Reid - SF
+Clayton Geathers - Ind.
+Byron Jones - Dal.
+Vonn Bell - NO </td>
+    <td>Tier 5 are backup DB’s that shouldn’t be looked at until late in drafts. </td>
+  </tr>
+  <tr>
+    <td>The Remainders</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Jamal Adams - NYJ
+Shawn Williams - Cin.
+AJ Bouye - Jac.
+DJ Swearinger - Was.
+Xavien Howard - Mia.
+Jordan Poyer - Buf.
+Quintin Demps - Chi.
+Jabril Peppers - Cle.
+Lamarcus Joyner - LAR
+Ricardo Allen - Atl.</td>
+    <td>The remaining DB’s can be interchanged with many DB’s across the league. </td>
+  </tr>
+</table>
+
+
+# INDIVIDUAL PLAYER RANKINGS
+
+## QB
+
+<table>
+  <tr>
+    <td>Tier One</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Aaron Rodgers - GB
+Tom Brady - NE                                  
+Drew Brees - NO</td>
+    <td>The QB Tier 1 is comprised of the QB’s that can make a big difference weekly, and should be taken early.</td>
+  </tr>
+  <tr>
+    <td>Tier Two</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Russell Wilson - Sea.
+Andrew Luck - Ind.                             
+Matt Ryan - Atl.                                  
+Kirk Cousins - Was.                            
+Marcus Mariota - Ten.
+Jameis Winston - TB</td>
+    <td>Tier 2 is full of QB1’s with high potential. Start them comfortably, and if you’re in a 2 QB league, getting two of these guys could make the difference. </td>
+  </tr>
+  <tr>
+    <td>Tier 3</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cam Newton - Car.
+Derek Carr - Oak.
+Ben Roethlisberger - Pit.                  
+Dak Prescott - Dal.                           
+Matthew Stafford - Det.                    
+Philip Rivers - LAC                           
+Tyrod Taylor - Buf.                            
+Andy Dalton - Cin.</td>
+    <td>Tier 3 is a mix of QB’s that carry some risk, be it injury, consistency, or something else. They have upside - notably Carr, Prescott, Taylor, and Newton - but also shouldn’t be relied on as stars. Draft them after the QB rush dies down, but make sure you have backups. </td>
+  </tr>
+  <tr>
+    <td>Tier 4</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Eli Manning - NYG
+Carson Palmer - Ari.                  
+Carson Wentz - Phi.
+Blake Bortles - Jac.</td>
+    <td>Tier 4 is the risk/reward tier. All these QB’s have upside - significant upside - but carry risk, also. Take them at will.</td>
+  </tr>
+  <tr>
+    <td>Tier 5</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Joe Flacco - Bal.
+Sam Bradford - Min                 
+Alex Smith - KC                       
+Jay Cutler - Mia.                     
+Brian Hoyer - SF
+Trevor Siemian - Den.</td>
+    <td>Tier 5 are your fantasy bench quarterbacks. Not going to win you a game alone, but their low double digit scores will keep you close enough. They’re reliable backups, if nothing else.</td>
+  </tr>
+  <tr>
+    <td>The Remainders</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Mike Glennon - Chi.
+DeShaun Watson - Hou.         
+Jared Goff - LAR                     
+Matt Moore - Mia.                    
+Tom Savage - Hou.                  
+Jimmy Garoppolo - NE            
+Brock Osweiler - Cle.               
+Josh McCown - NYJ
+Paxton Lynch - Den.
+DeShone Kizer - Cle.
+Cody Kessler - Cle.
+Teddy Bridgewater - Min.
+Mitch Trubisky - Chi.
+Christian Hackenberg - NYJ</td>
+    <td>The remaining QBs are all risky in their own way. Will Watson or Savage lead the Texans offense? Who starts for the Browns? Will Hackenberg get some reps this year? Pay attention to who gets given starting gigs throughout the preseason. That will give you a better idea of who to nab from the bottom tier of QB’s. </td>
+  </tr>
+</table>
+
+### QB
 
 #### Tier One
 Aaron Rodgers - GB
@@ -81,7 +1079,7 @@ Christian Hackenberg - NYJ
 
 The remaining QBs are all risky in their own way. Will Watson or Savage lead the Texans offense? Who starts for the Browns? Will Hackenberg get some reps this year? Pay attention to who gets given starting gigs throughout the preseason. That will give you a better idea of who to nab from the bottom tier of QB’s.
 
-## RB
+### RB
 
 #### Tier One
 David Johnson - Ari.                                  
