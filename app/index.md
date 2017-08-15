@@ -146,7 +146,7 @@ Christian McCaffrey - Car. </td>
     <td>RB Tier 3 is a boom/bust type of tier, with a bunch of players consisting of rookie to bounce back candidates to one coming out of retirement. Take them as RB2’s, but don’t rely on them to carry you on a week to week basis. If you can, grab a few of them. You can never have too many starting RB’s.</td>
   </tr>
   <tr>
-    <td colspan="2" align="center" class="h4">Tier Four</td>
+    <td colspan="2" align="center"><h4>Tier Four</h4></td>
 
   </tr>
   <tr>
