@@ -1012,13 +1012,11 @@ Christian Hackenberg - NYJ</td>
 
 ## QB
 
-**1. Aaron Rodgers - GB**
-Rodgers is a consistent fantasy stud who was top five in attempts (4th), yards (4th), touchdowns(1st), and passer rating (4th) last season while also completing 65.7% of his passes and only committing 11 total turnovers. His weapons in Green Bay are top tier, as Martellus Bennett and an emerging rushing attack behind Ty Montgomery are now added to the Nelson-Adams-Cobb receiving corps that led the Packers to the NFC Championship game last season. Don’t forget about Rodgers’ sneaky athletic rushing ability, as he finished in the top five for each of rushing attempts (5th), yards (4th), and touchdowns (T-5th). Rodgers should be the first QB off the board, and don’t hesitate to take him if a load of questionable RB’s or WR’s top the charts while you are on the clock.
+**1. Aaron Rodgers - GB** Rodgers is a consistent fantasy stud who was top five in attempts (4th), yards (4th), touchdowns(1st), and passer rating (4th) last season while also completing 65.7% of his passes and only committing 11 total turnovers. His weapons in Green Bay are top tier, as Martellus Bennett and an emerging rushing attack behind Ty Montgomery are now added to the Nelson-Adams-Cobb receiving corps that led the Packers to the NFC Championship game last season. Don’t forget about Rodgers’ sneaky athletic rushing ability, as he finished in the top five for each of rushing attempts (5th), yards (4th), and touchdowns (T-5th). Rodgers should be the first QB off the board, and don’t hesitate to take him if a load of questionable RB’s or WR’s top the charts while you are on the clock.
 
 | Rank  | Player Name  | Completions/Attempts       | Passing Yards          | Pass TD's | Interceptions  | Rushing Attempts  | Rushing Yards  | Rushing TD's  |
 | ------------- | ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
 | **1** | **_Aaron Rodgers_** | 401/610     | 4,428 | 40 | 7 | 67 | 369 | 4 |
-
 
 
 **2. Tom Brady - NE:** Brady threw 28 touchdowns and only 2 interceptions in his 12 games after suspension last year en route to another Super Bowl ring. Although he turns 40 this year, he is still in the top level among quarterbacks in New England’s high powered offense. The additions of Brandin Cooks and Dwayne Allen - as well as Rex Burkhead and Mike Gillislee to their already versatile and dangerous running backs - should prove significant to Brady. Don’t forget that Brady led the NFL in vertical yards per attempt last season, so the addition of Cooks could have major upside. Brady is poised for another great season in New England.
@@ -1096,7 +1094,7 @@ Rodgers is a consistent fantasy stud who was top five in attempts (4th), yards (
 
 | Rank  | Player Name  | Completions/Attempts       | Passing Yards          | Pass TD's | Interceptions  | Rushing Attempts  | Rushing Yards  | Rushing TD's  |
 | ------------- | ------------- |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:|
- **11** |  **_Derek Carr_** | 357/560     | 3,937 | 28 | 6 | 39 | 70 | 0 |
+| **11** |  **_Derek Carr_** | 357/560     | 3,937 | 28 | 6 | 39 | 70 | 0 |
 
 
 

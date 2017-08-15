@@ -108,7 +108,6 @@ body {
   line-height: 1;
 }
 
-ol,
 ul {
   list-style: none;
 }
@@ -229,48 +228,10 @@ a:hover {
   transition: all 0.2s ease;
 }
 
-ul,
-ol {
-  margin-bottom: 20px;
-}
-
-ol {
-  border-top: 1px solid #3daeba;
-  border-bottom: 1px solid #3daeba;
-  margin: 0;
-  padding: 0;
-  margin-bottom: 20px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
 ul li {
   list-style-type: disc;
   margin-left: 18px;
   margin-top: 5px;
-}
-
-ol li {
-  display: inline-block;
-  margin: 0;
-  padding: 0;
-  padding-right: 5px;
-}
-
-ol li + li {
-  padding-left: 10px;
-}
-
-ol li + li:before {
-  display: block;
-  content: " ";
-  width: 5px;
-  height: 5px;
-  border-radius: 100%;
-  background-color: #3daeba;
-  margin: 10px;
-  position: absolute;
-  margin-left: -12px;
 }
 
 h2 + ul {
