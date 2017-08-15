@@ -930,9 +930,9 @@ Ricardo Allen - Atl.</td>
 
   </tr>
   <tr>
-    <td>Aaron Rodgers - GB
-Tom Brady - NE                                  
-Drew Brees - NO</td>
+    <td>Aaron Rodgers - GB<br />
+    Tom Brady - NE                                  
+    Drew Brees - NO</td>
     <td>The QB Tier 1 is comprised of the QB’s that can make a big difference weekly, and should be taken early.</td>
   </tr>
   <tr>
