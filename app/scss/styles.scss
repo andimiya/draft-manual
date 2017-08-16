@@ -21,11 +21,24 @@
   }
 }
 
+.pagebreak {
+  page-break-before: always;
+}
+
+.frontcover {
+  page: cover;
+  margin: 0;
+  content: url('images/boof-cover.png');
+  width: 100%;
+  height: 100%;
+}
+
 h1 {
   font-family: 'Catamaran', 'Helvetica', sans-serif;
   margin-top: 20pt;
   font-size: 26pt;
   color: #4587ca;
+  page-break-before: always;
 }
 
 h2 {

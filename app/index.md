@@ -1,3 +1,4 @@
+<div class="pagebreak"></div>
 <div class="frontcover"></div>
 
 # 2017 Better Odds of Football Fantasy Draft Manual
@@ -14,7 +15,7 @@ Welcome to the 2017 Better Odds of Football Fantasy Draft Manual! Let’s go ove
 
 Best of luck to you! Feel free to direct any questions, comments, etc. to sal@betterodds.io. Here are the Tiers for each position, from offense down thru IDP. The Tiers are re-listed for each respective position chronologically in the manual. Are you ready??
 
-## TIERS
+# TIERS
 
 ## QB
 
@@ -30,10 +31,10 @@ Drew Brees - NO</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><h4>Tier Two</h4></td>
-
   </tr>
   <tr>
-    <td>Russell Wilson - Sea.
+    <td>
+Russell Wilson - Sea.
 Andrew Luck - Ind.                             
 Matt Ryan - Atl.                                  
 Kirk Cousins - Was.                            
