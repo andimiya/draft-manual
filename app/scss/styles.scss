@@ -27,10 +27,12 @@
 
 .frontcover {
   page: cover;
-  margin: 0;
+  margin-left: -10%;
+  margin-top: -12%;
   content: url('images/boof-cover.png');
-  width: 100%;
-  height: 100%;
+  width: 125%;
+  height: 128%;
+  counter-reset: page 1;
 }
 
 h1 {
