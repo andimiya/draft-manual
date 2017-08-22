@@ -1,29 +1,29 @@
-# Markdown Resume Builder
+# 2017 Draft Manual
 
-## Create a github pages user page
+Edit and style in markdown/HTML, then generate a PDF.
 
-- make a new github repo
-- repo's name MUST be `yourusername.github.io`
-- `cd yourusername.github.io`
-- touch index.html
-- touch styles.css
-- git add --all
-- git commit
-- git push -u origin master
-- view your public page at yourusername.github.io
+## Editing
+- Edit in Markdown, in the `index.md` file
+- The gulp process will take your markdown and convert it into HTML and output into the `public/index.html` file.
+If you make any changes in the `public/index.html` file, it'll get overwritten!
+- Add your styles to `scss/styles.scss`, which will be compiled to `public/styles.css` through the gulp process
+-
 
-## Use the markdown resume builder
-
-- fork and clone this repo
+## Run Locally
 - `npm install`
-- run `gulp`
-- create your resume in the app/index.md file using ONLY markdown
-- some default styles are already pre-loaded. if you'd like to override any defaults with your own custom styling, add your styles to app/scss/styles.scss
+- Run locally with `gulp`
 
-## Add your resume to your github.io page
+## Generate a PDF
+- Make sure you have Prince installed on your computer
+- In your terminal, navigate to the folder you'd like to save the PDF to.
+- Run this command `prince {URL} -o {name-of-pdf.pdf}`
+example: `prince http://localhost:8282 -o testoutput9.pdf`
 
-- copy the public/index.html file from your resume builder
-- paste it into the index.html file in your `yourusername.github.io` directory
-- copy the public/styles.css file from your resume builder
-- paste it into the `styles.css` file in your `yourusername.github.io` directory
-- git push to master in your username.github.io repo
+## Prince Installation Instructions
+Do this if you've never used Prince PDF generator before:  
+- $ tar xzf prince-9.0-macosx.tar.gz
+- $ cd prince-9.0-macosx
+- $ sudo ./install.sh
+
+More instructions just in case:
+https://www.princexml.com/doc/installing/
